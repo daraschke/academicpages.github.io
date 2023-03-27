@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 This cake is an absolute lie and you're not going to convince me that it's otherwise.
-I am a scholar and writer in Tallahassee, Florida, and I just make an excellent dinner.
+I am a scholar and writer in Tallahassee, Florida, and I just made an excellent dinner.
 
 ---
