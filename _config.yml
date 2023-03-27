@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Daniel Raschke"
 title_separator          : "-"
 name                     : &name "Daniel Raschke"
 description              : &description "Writer, Pedestrian"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Potato Man"
-  avatar           : "profile.png"
+  avatar           : "Ikke.jpg"
   bio              : "My cake is a lie"
   location         : "Wurstbrot"
   employer         :
